@@ -1,0 +1,30 @@
+html {
+    background-image: url("../images/beawebpagebackground.png");
+    background-repeat: no-repeat;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    background-color: #ff9fab;
+    width: 950px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+.italic {
+   font-style: italic;
+}
+
+.thoughts {
+    font-size: 22px;
+    text-align: left;
+    margin: 35px 20px 35px 20px;
+    border: 1px dashed;
+    padding: 20px;
+}
+
+.smallheading {
+    font-size: 16px;
+}
